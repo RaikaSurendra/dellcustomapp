@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="317c70ab87233154d63c4006dabb353c" label="MyFirstTable" max_length="40" name="x_snc_dellcustomap_myfirsttable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="myScript" max_length="4000" name="myscript" type="script_server"/>
+    </element>
+</database>
